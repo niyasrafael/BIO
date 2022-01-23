@@ -1,3 +1,8 @@
 hey everyone !
-Im niyas rafael , a computer science and engineering student from college of engineering karunagappally !
-this is my first git hub repository ! 
+Im Mohammed Niyaz , a computer science and engineering student from college of engineering karunagappally !
+
+Hometown : Calicut , India 
+
+college : College of Engineering Karunagappally 
+
+contact : +91 7510758989
